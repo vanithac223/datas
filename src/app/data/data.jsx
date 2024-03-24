@@ -9,9 +9,15 @@ export const datas=[
         Password:234,
 
     },{
-        Id:2,
+        Id:3,
         Name:"Sundar",
         Password:345,
+
+    }
+    ,{
+        Id:4,
+        Name:"Deepak",
+        Password:5678,
 
     }
 ]
